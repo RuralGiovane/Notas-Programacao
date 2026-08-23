@@ -6,12 +6,12 @@
 
 ---
 ## ⚙️ [[Backend]]
-APIs | Boas práticas | Linguagens | Frameworks
+Linguagens | Frameworks | APIs | Arquiteturas
 
 
 ---
 ## 📱 [[Frontend]]
-Estilizações | Consumo de API | Linguagens |Frameworks
+Linguagens | Frameworks | Consumo de API |  Estilizações
 
 
 ---
@@ -25,8 +25,8 @@ Sistema Operacionais | Terminal | DevOps
 
 
 ---
-## 🧪 QA & Testes
+## 🧪 [[_QA_|QA & Testes]]
 Testes | TDD & BDD | Qualidade de Software 
 
 ---
-## 🛡️ CyberSec
+## 🛡️ [[_Cyber_|Cyber Segurança]]

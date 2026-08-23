@@ -13,11 +13,11 @@ React | React Native | Angular
 
 
 ---
-## [[Consumo-API|📡 Consumo de API]]
+## [[_Consumo-API_|📡 Consumo de API]]
 Axios | Fetch API | React Query
 
 
 ---
-## [[Estilizações|🎨 Estilizações]]
+## [[_Estilizacoes_|🎨 Estilizações]]
 Tailwind & CSS | Styled Components | Bootstrap
 

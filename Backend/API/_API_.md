@@ -4,18 +4,6 @@
 Tags: #Backend  #API
 
 ---
-## Conteúdo
-- CRUD
-- REST 
-- GraphQL 
-- Swagger 
-- Postman 
-- Autenticação e Segurança
-- WebSockets
-
-
-
----
 ## [[_Fundamentos-API_|Fundamentos API]] 
 CRUD | HTTP | Status Codes
 

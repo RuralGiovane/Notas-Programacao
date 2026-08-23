@@ -3,17 +3,17 @@
 Tags: #Database | #DB-Relational | #DB-Non-Relational
 
 ---
-## [[Banco-PL-SQL|⚙️ Banco (PL/SQL)]] 
+## [[_Banco-PL-SQL_|⚙️ Banco (PL/SQL)]] 
 Fundamentos | Programação Avançada | Cursores
 
 ---
-## [[Bancos-Relacionais|🗄️ Bancos relacionais]]
+## [[_Bancos-Relacionais_|🗄️ Bancos relacionais]]
 MySQL | PostgreSQL | Oracle | SQLite
 
 ---
-## [[Bancos-non-Relacionais|📦 Bancos não relacionais]]
+## [[_Bancos-Non-Relacionais_|📦 Bancos não relacionais]]
 Redis | MongoDB
 
 ---
-## [[Bancos-em-Nuvem|☁️ Bancos em nuvem]]
+## [[_Bancos-em-Nuvem_|☁️ Bancos em nuvem]]
 Firebase (NoSQL) | Supabase (SQL)
