@@ -1,11 +1,11 @@
 # Frameworks Front End
 ## ↩ Voltar [[Frontend]]
 
-Tags: #Frameworks
+Tags: #Frameworks #Frontend 
 
 ---
 ## Conteúdo
-- React
-- React Native
-- Angular
+- [[_React_|React]]
+- [[_React-Native_|React Native]]
+- [[_Angular_|Angular]]
 
