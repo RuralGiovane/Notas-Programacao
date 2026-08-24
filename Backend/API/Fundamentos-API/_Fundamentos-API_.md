@@ -1,6 +1,6 @@
 
 
 ## Conteudos
-- [[CRUD]]
+- [[Backend/API/Fundamentos-API/CRUD]]
 - [[HTTP]]
 - [[Status-Code]]
