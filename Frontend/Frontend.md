@@ -4,7 +4,7 @@ Tags: #Frontend #Linguagens #API
 
 ---
 ## [[_Linguagens-Frontend_|🔤 Linguagens]] 
-HTML | CSS | JavaScript | TypeScript
+HTML | CSS | JavaScript | TypeScript | SCSS & Sass
 
 
 ---
