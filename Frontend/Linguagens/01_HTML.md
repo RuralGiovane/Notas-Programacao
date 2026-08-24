@@ -4,9 +4,7 @@
 Tags: #Linguagens #Frontend #HTML 
 
 ---
-
-
-## Índice
+# Índice
 1. [Estrutura Básica](#estrutura-básica)
 2. [Metadados e Configurações](#metadados-e-configurações)
 3. [Tags Semânticas](#tags-semânticas)
