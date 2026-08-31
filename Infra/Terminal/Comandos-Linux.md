@@ -1,7 +1,7 @@
 # Comandos Linux
 ## ↩ Voltar [[_Terminal_|Terminal]]
 
-Tags: #Terminal #Linux #DevOps #SysAdmin
+Tags: #Terminal #Linux
 
 ---
 ## ↪ Informações e Identificação do Sistema
