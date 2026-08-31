@@ -2,8 +2,6 @@
 
  ___↪ Este arquivo serve como um guia geral para todas as notas sobre os conteúdos de meu interesse___
 
-#### >> [[Lista-de-Tarefas|Ver Lista de Tarefas]]
-
 ---
 ## ⚙️ [[Backend]]
 Linguagens | Frameworks | APIs | Arquiteturas
@@ -30,3 +28,8 @@ Testes | TDD & BDD | Qualidade de Software
 
 ---
 ## 🛡️ [[_Cyber_|Cyber Segurança]]
+
+
+---
+#### >> [[Lista-de-Tarefas|Ver Lista de Tarefas]]
+### >>[[README|Ver README]]
