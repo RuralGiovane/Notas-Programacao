@@ -119,3 +119,41 @@ Comandos executados uma única vez para identificar seu usuário nas alteraçõe
 | `git diff <branch_1>..<branch_2>` | Compara alterações entre duas branches distintas |
 | `git show <hash_commit>` | Mostra detalhes e alterações completas de um commit específico |
 | `git blame <arquivo>` | Mostra linha por linha quem fez a última alteração e em qual commit |
+
+---
+## ↪ Envio Avançado e Flags de Push
+
+| Comando | Explicação |
+| :--- | :--- |
+| `git push --force` (`-f`) | Força o envio sobrescrevendo o histórico remoto (perigoso) |
+| `git push --force-with-lease` | Força o envio com segurança, garantindo que ninguém subiu commits antes |
+
+---
+## ↪ Rebase e Reescrita de Histórico
+O `rebase` reaplica commits em cima de outra base ou permite limpar e reordenar commits locais antes do push.
+
+| Comando | Explicação |
+| :--- | :--- |
+| `git rebase <branch>` | Reaplica os commits da branch atual no topo da branch especificada |
+| `git rebase -i HEAD~<n>` | Inicia o rebase interativo dos últimos `n` commits |
+| `git rebase --continue` | Continua o processo de rebase após resolver conflitos |
+| `git rebase --abort` | Cancela o rebase e retorna a branch ao estado anterior |
+
+### Ações no Rebase Interativo (`-i`)
+Durante o rebase interativo no editor de texto, use as ações abaixo no início da linha de cada commit:
+
+| Ação | Explicação |
+| :--- | :--- |
+| `pick` | Mantém o commit como está |
+| `reword` | Mantém o commit, mas permite editar a mensagem |
+| `edit` | Para o rebase para permitir alterar o conteúdo do commit |
+| `squash` | Junta o commit com o anterior, combinando as mensagens |
+| `fixup` | Junta com o commit anterior, descartando a mensagem deste |
+| `drop` | Remove o commit do histórico |
+
+> [!TIP]
+> **Configurar editor padrão:** Para definir o editor utilizado pelo rebase interativo (ex: Vim, Nano, VS Code):
+> ```bash
+> git config --global core.editor "vim"
+> ```
+
