@@ -7,6 +7,7 @@ Tags: #QA
 Teoria sobre Testes de Software
 
 
+- [[Teste-de-Mesa]]
 - [[Testes-Teorias]]
 - [[Testes-Aceitacao]]
 - [[Testes-Integracao]]
