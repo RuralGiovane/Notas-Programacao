@@ -232,4 +232,4 @@ Output:
 ---
 
 # Conteúdo Relacionado
-- [[Modelagem de Dados]]
+- [[Modelagem-de-Dados|Modelagem de Dados]]

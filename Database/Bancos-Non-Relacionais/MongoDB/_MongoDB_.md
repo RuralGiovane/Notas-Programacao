@@ -1,5 +1,5 @@
 # MongoDB
-## ↩ Voltar [[_Bancos-Non-Relacionais_]]
+## ↩ Voltar [[_Bancos-Non-Relacionais_|Bancos Não Relacionais]]
 
 Tags: #Database #Non-Relacionais #MongoDB
 
