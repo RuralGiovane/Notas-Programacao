@@ -4,7 +4,7 @@
 Tags: #Database #Non-Relacionais #MongoDB
 
 ---
-# Índice
+# Sumário
 - [Visão Geral](#visao-geral)
 - [Conteúdo Abordado](#conteudo-abordado)
 - [Instalação do MongoDB Compass](#instalacao-do-mongodb-compass)
@@ -36,14 +36,14 @@ Siga as instruções no [site oficial do MongoDB](https://www.mongodb.com/pt-br/
 ### Instalação no Linux (Arch)
 Para instalar no Arch é necessário um gerenciador de pacotes AUR (yay ou paru).
 
-Comando de Instalação:
+1. **Comando de Instalação**:
 ```bash
 paru -S mongodb-bin mongodb-tools-bin mongosh-bin mongodb-compass-bin
 # ou
 yay -S mongodb-bin mongodb-tools-bin mongosh-bin mongodb-compass-bin
 ```
 
-Permissão para conectar o banco:
+2. **Permissão para conectar o banco**:
 ```bash
 # Inicia o serviço imediatamente  
 sudo systemctl start mongodb  
@@ -180,6 +180,7 @@ Output:
   "preco": 15000
 }
 ```
+
 ---
 # Atualizações de Documentos (Update)
 
@@ -202,8 +203,8 @@ Output:
   "upsertedCount": 0
 }
 ```
----
 
+---
 # Remoção de Documentos (Delete)
 
 ### Deletar um Registro
@@ -221,7 +222,6 @@ Output:
 ```
 
 ---
-
 # Boas Práticas e Observações
 
 - **Case-Sensitive (CamelCase)**: Os campos de cada produto são sensíveis ao caso (`Preco` != `preco` != `Preço`).
@@ -230,6 +230,5 @@ Output:
   - `Many` $\rightarrow$ `One`
 
 ---
-
 # Conteúdo Relacionado
 - [[Modelagem-de-Dados|Modelagem de Dados]]
