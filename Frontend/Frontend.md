@@ -3,21 +3,21 @@
 Tags: #Frontend #Linguagens #API
 
 ---
-## [[_Linguagens-Frontend_|🔤 Linguagens]] 
+## [[_Linguagens-Frontend_|Linguagens]] 
 HTML | CSS | JavaScript | TypeScript | SCSS & Sass
 
 
 ---
-## [[_Frameworks-Frontend_|🧩 Frameworks]]
+## [[_Frameworks-Frontend_|Frameworks]]
 React | React Native | Angular
 
 
 ---
-## [[_Consumo-API_|📡 Consumo de API]]
+## [[_Consumo-API_|Consumo de API]]
 Axios | Fetch API | React Query
 
 
 ---
-## [[_Estilizacoes_|🎨 Estilizações]]
+## [[_Estilizacoes_|Estilizações]]
 Tailwind & CSS | Styled Components | Bootstrap
 

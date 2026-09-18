@@ -4,7 +4,7 @@
 Tags: #Backend #Linguagens 
 
 ---
-## 🔤 Linguagens 
+## Linguagens 
 
 - [[_Java_|Java]]
 - [[_Python_|Python]]

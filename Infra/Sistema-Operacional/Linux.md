@@ -1,7 +1,7 @@
-
+# Linux
 ## ↩ Voltar [[_Sistemas-Operacionais_|Sistema Operacionais]]
 
-Tags: #SO | #Infra | #Linux
+Tags: #SO #Infra #Linux
 
 ---
 

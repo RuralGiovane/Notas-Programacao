@@ -5,5 +5,5 @@ Tags: #SO #Infra
 
 ---
 ## Conteúdo
-- [[Linux|🐧Linux]] 
+- [[Linux]] 
 

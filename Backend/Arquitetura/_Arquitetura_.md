@@ -1,10 +1,10 @@
-# 🏛️Arquitetura
+# Arquitetura
 ## ↩ Voltar [[Backend]]
 
 Tags: #Arquitetura
 
 ---
-## 💻 Arquitetura de Software
+## Arquitetura de Software
 - [[Clean-Code|Clean Code]]
 - [[SOLID]]
 - [[Design-Patterns|Design Patterns]]
@@ -12,7 +12,7 @@ Tags: #Arquitetura
 - [[Microsservicos|Microsserviços]]
 
 ---
-## 🏢 Arquitetura Corporativa
+## Arquitetura Corporativa
 - [[TOGAF]]
 - [[ITIL]]
 - [[COBIT]]
