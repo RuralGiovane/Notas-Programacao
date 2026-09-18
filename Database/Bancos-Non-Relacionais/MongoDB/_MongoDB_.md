@@ -5,4 +5,4 @@ Tags: #Database #Non-Relacionais #MongoDB
 
 ---
 ## Fundamentos & Operações Básicas
-- [[Fundamentos|Fundamentos e CRUD]]
+- [[Fundamentos-MongoDB|Fundamentos e CRUD]]
