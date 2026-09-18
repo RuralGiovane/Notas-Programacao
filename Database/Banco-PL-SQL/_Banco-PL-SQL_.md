@@ -1,9 +1,12 @@
-# Banco-PL-SQL
-## ↩ Voltar
+# Banco PL/SQL
+## ↩ Voltar [[_Database_|Database]]
 
-Tags: #Banco-PL-SQL
+Tags: #Database #Banco-PL-SQL
 
 ---
-## Conteúdo
-- 
 
+## [[_SQL_|SQL]]
+
+
+---
+## [[_PL-SQL_|PL/SQL]]
